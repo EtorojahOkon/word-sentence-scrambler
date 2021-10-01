@@ -4,10 +4,14 @@ Do you love word puzzles?
  
  To use, create an instance of the class Scrambler 
  
- eg var a = new Scrambler()
+```js 
+ var a = new Scrambler()
+ ```
  
  Then call the shuffleSentence() method with your string as parameter
- eg a.shuffleSentence('I am batman")
+ ```
+ a.shuffleSentence('I am batman")
+ ```
  
  The library returns the shuffled word or sentence
  
